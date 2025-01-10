@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Iceooh's Blog</title>
+        <link>https://blog.iceooh.com</link>
+        <description>星河璀璨、自在悠然</description>
+        <lastBuildDate>Fri, 10 Jan 2025 01:40:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Iceooh</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present Iceooh</copyright>
+        <item>
+            <title><![CDATA[Github Actions 与 Pages 部署]]></title>
+            <link>https://blog.iceooh.com/posts/2025/0109</link>
+            <guid>https://blog.iceooh.com/posts/2025/0109</guid>
+            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[使用 Curve 主题，将项目部署到 Github Pages 与 个人服务器上，并使用 Github Actions 实现自动部署。]]></description>
+            <author>114514@gmail.com (Iceooh)</author>
+        </item>
+        <item>
+            <title><![CDATA[欢迎使用 Curve 测试0.02]]></title>
+            <link>https://blog.iceooh.com/posts/2024/1010</link>
+            <guid>https://blog.iceooh.com/posts/2024/1010</guid>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎使用 Curve 主题，这是你的第一篇文章]]></description>
+            <author>114514@gmail.com (Iceooh)</author>
+        </item>
+    </channel>
+</rss>
